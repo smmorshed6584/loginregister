@@ -1,0 +1,158 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.body-color{
+	width: 100%;
+	background-color:dimgrey;
+}
+
+.login-section{
+	width: 100%;
+	
+}
+.login-box{
+	width: 500px;
+	margin: 120px auto;
+	background-color:#eeeeee;
+	border: 2px solid #000;
+	border-radius: 10px;
+
+}
+.avatar{
+	width: 100%;
+	text-align: center;
+}
+.avatar img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	margin: 20px 0px;
+}
+.avatar h2{
+	text-align: center;
+	font-size: 25px;
+	width: 500;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 25px 0px;
+}
+.login-form{
+	width: 100%;
+	margin: 0px 10px;
+}
+.Form-group{
+	width: 100%;
+	margin: 20px 0px;
+}
+.Form-group label{
+	font-size: 14px;
+	font-weight: 700;
+	color: #ooo;
+	display: block;
+	text-transform: uppercase;
+	margin: 0px 0px 5px;
+}
+.from-control{
+     width: 90%;
+    padding: 5px;
+    font-size: 14px;
+    color: #777;
+    border: 2px solid #000;
+}
+.btn-from-group{
+	margin: 10px 0px;
+	padding: 10px 25px;
+	background-color: black;
+	color: #fff;
+	border: 2px solid red;
+	font-weight: 700;
+	font-size: 14px;
+	text-transform: uppercase;
+
+}
+.Register-section{
+
+		width: 100%;
+		
+
+}
+.Register-box{
+	width: 1000px;
+	margin: 100px auto;
+	background-color:gray;
+	border: 2px solid #000;
+	border-radius: 10px;
+
+}
+
+.avatar1{
+	width: 100%;
+	text-align: center;
+
+}
+
+.avatar1 img{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	margin: 20px 0px;
+
+}
+
+.avatar1 h2{
+		text-align: center;
+	font-size: 25px;
+	width: 500;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 25px 0px;
+
+}
+.Resgister-form{
+		width: 100%;
+	margin: 0px 10px;
+
+}
+.Register-group{
+	width: 100%;
+	margin: 20px 0px;
+}
+.Register-group label{
+	font-size: 14px;
+	font-weight: 700;
+	color: #ooo;
+	display: block;
+	text-transform: uppercase;
+	margin: 0px 0px 5px;
+}
+
+.from-Reg{
+	  width: 90%;
+    padding: 5px;
+    font-size: 14px;
+    color: #777;
+    border: 2px solid #000;
+}
+.btn-Register-form{
+	margin: 10px 0px;
+	padding: 10px 25px;
+	background-color: black;
+	color: #fff;
+	border: 2px solid red;
+	font-weight: 700;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.reg-here{
+	margin: 10px 0px;
+	padding: 10px 30px;
+	font-weight: 700;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: right;
+}
+.reg-body-color{
+ background-color: darkcyan;
+}
